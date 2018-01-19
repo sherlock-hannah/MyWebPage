@@ -12,3 +12,6 @@
 
 ## Javascript
 [Javascript Functions Tutorial](https://www.youtube.com/watch?v=AY6X5jZZ_JE)
+
+- `python -m SimpleHTTPServer 8000`
+ can connect localhost

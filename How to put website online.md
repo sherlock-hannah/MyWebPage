@@ -1,3 +1,4 @@
+## How to put website online
 ### How DNS works
 - [Inside the Domain Name System](https://www.youtube.com/watch?v=GlZC4Jwf3xQ)
 - [An Introduction to DNS Terminology, Components, and Concepts](https://www.digitalocean.com/community/tutorials/an-introduction-to-dns-terminology-components-and-concepts)
@@ -31,3 +32,4 @@ service nginx restart
 ### Install FileZilla
 Choose SFTP - Secure File Transfer Protocol (Linux)!
 Port 22
+If this port can not connect server,use other port such as 27292 etc.
